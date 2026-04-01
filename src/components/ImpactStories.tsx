@@ -10,7 +10,7 @@ export function ImpactStories() {
       id: 1,
       title: 'Sunrise Bakery\'s Daily Donation',
       story: 'Every evening, Sunrise Bakery donates fresh bread and pastries that would otherwise go unsold. Through Annapurna Sharingspoon, they\'ve helped feed over 200 families in the past month.',
-      donor: 'Maria Rodriguez, Bakery Owner',
+      donor: 'Avni Saxena, Bakery Owner',
       impact: '240 families fed',
       foodSaved: '85 kg bread daily',
       image: 'https://images.unsplash.com/photo-1628697002958-ffab0ce12130?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMGJyZWFkJTIwYmFrZXJ5JTIwZG9uYXRpb258ZW58MXx8fHwxNzU3NDQwNzAwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
@@ -20,7 +20,7 @@ export function ImpactStories() {
       id: 2,
       title: 'Community Kitchen Success',
       story: 'Our volunteer-run community kitchen serves warm meals to homeless individuals and struggling families. Thanks to food donations through the platform, we can provide nutritious meals daily.',
-      donor: 'James Park, Community Volunteer',
+      donor: 'Neelu, Community Volunteer',
       impact: '150 meals daily',
       foodSaved: '50 kg surplus daily',
       image: 'https://images.unsplash.com/photo-1711261727644-cb7d5f163a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHklMjBzb3VwJTIwa2l0Y2hlbiUyMGZlZWRpbmd8ZW58MXx8fHwxNzU3NDQwNzAwfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
@@ -30,7 +30,7 @@ export function ImpactStories() {
       id: 3,
       title: 'Restaurant Recovery Program',
       story: 'Green Bistro partnered with us to donate excess prepared meals. Instead of throwing away perfectly good food, they now help feed local shelters and food banks.',
-      donor: 'Sarah Chen, Restaurant Manager',
+      donor: 'Tushar Varshney, Restaurant Manager',
       impact: '300+ meals rescued',
       foodSaved: '120 kg monthly',
       image: 'https://images.unsplash.com/photo-1693970717381-0d53d39d71ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50JTIwZm9vZCUyMHdhc3RlJTIwcmVkdWN0aW9ufGVufDF8fHx8MTc1NzQ0MDcwMHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
@@ -41,19 +41,19 @@ export function ImpactStories() {
   const testimonials = [
     {
       quote: "This platform has transformed how we think about food waste. We're not just reducing waste, we're creating hope.",
-      author: "David Kim",
+      author: "Aastha Singh",
       role: "Food Bank Coordinator",
       avatar: "👨‍💼"
     },
     {
       quote: "Knowing that our surplus food feeds families in need gives our work deeper meaning. It's beautiful to see community care in action.",
-      author: "Lisa Thompson",
+      author: "Riddhima Kar",
       role: "Restaurant Owner",
       avatar: "👩‍🍳"
     },
     {
       quote: "My children and I have been recipients of these generous donations. It's helped us through difficult times with dignity and nutrition.",
-      author: "Ana Martinez",
+      author: "Heema",
       role: "Community Member",
       avatar: "👩‍👧‍👦"
     }
